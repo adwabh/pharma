@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pharmacy</string>
+    <string name="action_settings">Settings</string>
+    <string name="inventory_authority">com.pharmacy.inventory</string>
+</resources>
